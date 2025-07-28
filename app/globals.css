@@ -1127,6 +1127,11 @@ body {
   transform: translateY(-5px);
 }
 
+@media only screen and (max-width: 37.5em) {
+  .blog-card:hover {
+    font-size:translateY(0);
+  }
+}
 .blog-card a {
   display: inline-block;
   margin-top: 1rem;

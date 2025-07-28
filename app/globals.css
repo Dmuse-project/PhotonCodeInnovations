@@ -24,7 +24,7 @@
     width: 0;
   }
   to {
-    width: 37ch;
+    width: 40ch;
   }
 }
 @keyframes typing2 {
@@ -32,7 +32,7 @@
     width: 0;
   }
   to {
-    width: 65ch;
+    width: 60ch;
   }
 }
 @keyframes typing3 {
@@ -548,7 +548,7 @@ body {
 }
 /* NEW HERO */
 .hero {
-  background-image: linear-gradient(rgba(31, 41, 55, 0.9), rgba(15, 15, 15, 0.92)), url(../img/hero__1.jpeg);
+  background-image: linear-gradient(rgba(31, 41, 55, 0.9), rgba(15, 15, 15, 0.92)), url(../img/tech.avif);
   background-size: cover;
   background-position: center;
   grid-row: 2/3;
